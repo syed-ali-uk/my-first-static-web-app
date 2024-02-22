@@ -3,7 +3,8 @@
   "configurations": {
     "my-first-static-web-app": {
       "appLocation": "src",
-      "outputLocation": "."
+      "outputLocation": ".",
+      "apiLocation": "api"
     }
   }
 }
